@@ -27,7 +27,7 @@
    │    Monitoring & Security │ (Prometheus, Grafana)
    └──────────────────────────┘
 
-
+---
 
 Highly Available Virtual Machine (VM) Architecture
 Key Components
