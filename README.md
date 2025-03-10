@@ -1,4 +1,5 @@
 # Arch
+```bash
 
               Users
                 |
@@ -26,7 +27,7 @@
    ┌──────────────────────────┐
    │    Monitoring & Security │ (Prometheus, Grafana)
    └──────────────────────────┘
-
+```
 ---
 
 Highly Available Virtual Machine (VM) Architecture
